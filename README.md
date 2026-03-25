@@ -110,6 +110,7 @@ ________________________________________
 • Revenue is heavily concentrated in prime locations like New York and Brooklyn, highlighting higher demand and pricing power in these areas compared to other boroughs.
 ________________________________________
 💼 Business Impact & Insights
+
 •	Enables identification of high-performing locations for revenue optimization 
 
 •	Helps in setting competitive and demand-driven pricing strategies 
@@ -122,6 +123,7 @@ ________________________________________
 
 ________________________________________
 🔑 Key Points
+
 •	End-to-end data analysis project using Python, SQL, and Power BI
 
 •	Strong focus on business-driven insights and storytelling
@@ -133,7 +135,8 @@ ________________________________________
 •	Derived actionable insights for demand, pricing, and revenue optimization
 
 ________________________________________
-📸 Dashboard Preview 
+📸 Dashboard Preview
+
 <p align="center">
   <img src="./Dashboard.png" width="100%"/>
 </p>
