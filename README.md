@@ -1,10 +1,12 @@
 🏠 Airbnb Data Analytics: Demand, Pricing & Revenue Insights
 ________________________________________
 📌 Short Description & Purpose
+
 This project focuses on performing end-to-end data analysis on Airbnb listing data to uncover meaningful insights related to booking trends, pricing strategies, customer preferences, and revenue distribution.
 The purpose of this project is to transform raw data into actionable business insights that help in understanding demand patterns, optimizing pricing strategies, and improving overall booking performance.
 ________________________________________
 🛠️ Tech Stack / Tools Used
+
 •	Python (Pandas) – Data cleaning, preprocessing, and feature engineering
 
 •	SQL – Data querying and extracting insights
@@ -18,6 +20,7 @@ ________________________________________
 •	Excel / CSV – Data source 
 ________________________________________
 📂 Data Source
+
 •	The dataset used in this project is sourced from Kaggle, a widely used platform for data science and analytics projects.
 
 •	It contains Airbnb listing data, including details such as pricing, location, availability, reviews, and host information.
@@ -25,6 +28,7 @@ ________________________________________
 •	Source: Kaggle Airbnb Dataset 👉 https://www.kaggle.com/datasets/peterzhou/airbnb-open-data-in-nyc
 ________________________________________
 ⭐ Features / Highlights
+
 •	Interactive dashboard with filters (City, Room Type, Price Range)
 
 •	KPI cards for Total Bookings, Revenue, Listings, Avg Price, and Availability 
@@ -38,6 +42,7 @@ ________________________________________
 •	Data cleaning and transformation using Python and Power Query 
 ________________________________________
 ❗ Business Problem
+
 Airbnb platforms generate large volumes of listing data, but without proper analysis, it becomes difficult to identify:
 
 •	Which locations generate maximum revenue 
@@ -51,6 +56,7 @@ Airbnb platforms generate large volumes of listing data, but without proper anal
 This project addresses these challenges by converting raw data into meaningful insights for better decision-making.
 ________________________________________
 🎯 Goals of the Dashboard
+
 •	Identify high-demand locations and their impact on revenue 
 
 •	Analyze pricing strategies and customer preferences
