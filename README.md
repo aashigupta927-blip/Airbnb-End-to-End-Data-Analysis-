@@ -77,4 +77,4 @@ ________________________________________
 •	Derived actionable insights for demand, pricing, and revenue optimization
 ________________________________________
 📸 Dashboard Preview 
-Dashboard Screenshot 2026-03-24 213953.png
+https://github.com/aashigupta927-blip/Airbnb-End-to-End-Data-Analysis-/blob/main/Dashboard%20Screenshot%202026-03-24%20213953.png
