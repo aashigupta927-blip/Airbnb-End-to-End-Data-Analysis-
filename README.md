@@ -75,5 +75,6 @@ ________________________________________
 •	Cleaned and transformed raw data for accurate analysis 
 •	Built an interactive and user-friendly dashboard 
 •	Derived actionable insights for demand, pricing, and revenue optimization
-
-
+________________________________________
+📸 Dashboard Preview 
+Screenshot 2026-03-24 213953.png
