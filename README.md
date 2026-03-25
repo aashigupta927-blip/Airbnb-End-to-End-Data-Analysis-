@@ -41,24 +41,32 @@ ________________________________________
 •	Discover seasonal trends in bookings 
 ________________________________________
 📊 Walkthrough of Key Insights
+
 📍 Location-Based Insights
 • Booking activity is concentrated in prime locations like New York and Brooklyn, indicating higher demand and popularity compared to other boroughs.
 • Location analysis reveals significant data quality issues, where inconsistent naming (case differences, extra spaces, duplicates) leads to inaccurate demand classification, highlighting the need for data cleaning before analysis.
+
 💰 Pricing-Based Insights
 • Analysis shows that mid-priced listings generate the highest bookings, indicating strong customer preference for moderately priced accommodations.
 • High demand locations have a higher average price (~140) compared to low demand locations (~100), indicating that higher-priced listings tend to receive more bookings.
 • Expensive listings have slightly higher booking activity than budget listings, indicating strong demand even at higher price levels.
+
 📅 Availability & Demand Insights
 • High demand listings have significantly lower availability than low demand listings.
+
 ⭐ Reviews & Ratings Insights
 • High rated listings receive more bookings than low rated listings.
 • Highly reviewed listings prioritize occupancy over pricing, while low-reviewed listings tend to be overpriced with lower demand.
+
 🏠 Room Type Insights
 • Customers prefer affordable private rooms for higher bookings, while entire homes cater to premium users with higher pricing but slightly lower demand.
+
 👤 Host Behavior Insights
 • Experienced hosts with multiple listings attract more bookings, likely due to better management, visibility, and customer trust.
+
 📊 Seasonal Trends Insights
 • Airbnb demand shows clear seasonality, with peak bookings during late summer months, likely driven by vacations and travel trends, while early-year months experience lower demand.
+
 💸 Revenue Insights
 • Revenue is heavily concentrated in prime locations like New York and Brooklyn, highlighting higher demand and pricing power in these areas compared to other boroughs.
 ________________________________________
