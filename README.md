@@ -11,10 +11,12 @@ ________________________________________
 •	Power Query – Data transformation 
 •	DAX – Calculated columns, measures, and KPIs 
 •	Excel / CSV – Data source 
+________________________________________
 📂 Data Source
 •	The dataset used in this project is sourced from Kaggle, a widely used platform for data science and analytics projects. 
 •	It contains Airbnb listing data, including details such as pricing, location, availability, reviews, and host information.
 •	Source: Kaggle Airbnb Dataset 👉 https://www.kaggle.com/datasets/peterzhou/airbnb-open-data-in-nyc
+________________________________________
 ⭐ Features / Highlights
 •	Interactive dashboard with filters (City, Room Type, Price Range) 
 •	KPI cards for Total Bookings, Revenue, Listings, Avg Price, and Availability 
