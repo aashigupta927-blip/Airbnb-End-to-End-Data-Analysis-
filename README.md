@@ -77,4 +77,6 @@ ________________________________________
 •	Derived actionable insights for demand, pricing, and revenue optimization
 ________________________________________
 📸 Dashboard Preview 
-![Dashboard](./Dashboard Screenshot 2026-03-24 213953.png)
+<p align="center">
+  <img src="./dashboard.png" width="800"/>
+</p>
